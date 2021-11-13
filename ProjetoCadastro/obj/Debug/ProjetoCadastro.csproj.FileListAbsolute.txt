@@ -1,0 +1,103 @@
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\ProjetoCadastro.exe.config
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\ProjetoCadastro.exe
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\ProjetoCadastro.pdb
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.csprojAssemblyReference.cache
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.frmPrincipal.resources
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.frmUsuario.resources
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.Properties.Resources.resources
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.csproj.GenerateResource.cache
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.csproj.CoreCompileInputs.cache
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.exe
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.pdb
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\Cadastro.mdf
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\Cadastro_log.ldf
+D:\curso C#\ProjetoCadastro\ProjetoCadastro\bin\Debug\Cadastro.mdf
+D:\curso C#\ProjetoCadastro\ProjetoCadastro\bin\Debug\Cadastro_log.ldf
+D:\curso C#\ProjetoCadastro\ProjetoCadastro\bin\Debug\ProjetoCadastro.exe.config
+D:\curso C#\ProjetoCadastro\ProjetoCadastro\bin\Debug\ProjetoCadastro.exe
+D:\curso C#\ProjetoCadastro\ProjetoCadastro\bin\Debug\ProjetoCadastro.pdb
+D:\curso C#\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.csprojAssemblyReference.cache
+D:\curso C#\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.frmPrincipal.resources
+D:\curso C#\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.frmUsuario.resources
+D:\curso C#\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.Properties.Resources.resources
+D:\curso C#\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.csproj.GenerateResource.cache
+D:\curso C#\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.csproj.CoreCompileInputs.cache
+D:\curso C#\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.exe
+D:\curso C#\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.pdb
+D:\curso C#\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.frmPesquisaUsuario.resources
+E:\curso C#\ProjetoCadastro\ProjetoCadastro\bin\Debug\Cadastro.mdf
+E:\curso C#\ProjetoCadastro\ProjetoCadastro\bin\Debug\Cadastro_log.ldf
+E:\curso C#\ProjetoCadastro\ProjetoCadastro\bin\Debug\ProjetoCadastro.exe.config
+E:\curso C#\ProjetoCadastro\ProjetoCadastro\bin\Debug\ProjetoCadastro.exe
+E:\curso C#\ProjetoCadastro\ProjetoCadastro\bin\Debug\ProjetoCadastro.pdb
+E:\curso C#\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.csprojResolveAssemblyReference.cache
+E:\curso C#\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.frmPesquisaUsuario.resources
+E:\curso C#\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.frmPrincipal.resources
+E:\curso C#\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.frmUsuario.resources
+E:\curso C#\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.Properties.Resources.resources
+E:\curso C#\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.csproj.GenerateResource.Cache
+E:\curso C#\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.exe
+E:\curso C#\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.pdb
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\EnvDTE.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\stdole.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.frmPesquisaUsuario.resources
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.frmRelUsuario.resources
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\obj\Debug\RdlCompile.cache
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\obj\Debug\RdlCompile.compiled
+C:\Users\Professor\source\repos\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.csproj.CopyComplete
